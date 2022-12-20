@@ -1,0 +1,15 @@
+C:\Users\wilme\source\repos\earth-rover\obj\Debug\net6.0-windows\earth-rover.csproj.AssemblyReference.cache
+C:\Users\wilme\source\repos\earth-rover\obj\Debug\net6.0-windows\earth-rover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilme\source\repos\earth-rover\obj\Debug\net6.0-windows\earth-rover.AssemblyInfoInputs.cache
+C:\Users\wilme\source\repos\earth-rover\obj\Debug\net6.0-windows\earth-rover.AssemblyInfo.cs
+C:\Users\wilme\source\repos\earth-rover\obj\Debug\net6.0-windows\earth-rover.csproj.CoreCompileInputs.cache
+C:\Users\wilme\source\repos\earth-rover\bin\Debug\net6.0-windows\earth-rover.exe
+C:\Users\wilme\source\repos\earth-rover\bin\Debug\net6.0-windows\earth-rover.deps.json
+C:\Users\wilme\source\repos\earth-rover\bin\Debug\net6.0-windows\earth-rover.runtimeconfig.json
+C:\Users\wilme\source\repos\earth-rover\bin\Debug\net6.0-windows\earth-rover.dll
+C:\Users\wilme\source\repos\earth-rover\bin\Debug\net6.0-windows\earth-rover.pdb
+C:\Users\wilme\source\repos\earth-rover\obj\Debug\net6.0-windows\earth-rover.dll
+C:\Users\wilme\source\repos\earth-rover\obj\Debug\net6.0-windows\refint\earth-rover.dll
+C:\Users\wilme\source\repos\earth-rover\obj\Debug\net6.0-windows\earth-rover.pdb
+C:\Users\wilme\source\repos\earth-rover\obj\Debug\net6.0-windows\earth-rover.genruntimeconfig.cache
+C:\Users\wilme\source\repos\earth-rover\obj\Debug\net6.0-windows\ref\earth-rover.dll

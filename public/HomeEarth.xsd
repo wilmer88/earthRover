@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="HomeEarth"
+    targetNamespace="http://tempuri.org/HomeEarth.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/HomeEarth.xsd"
+    xmlns:mstns="http://tempuri.org/HomeEarth.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+</xs:schema>
